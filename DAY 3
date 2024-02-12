@@ -1,0 +1,8 @@
+name=input("Name: ")
+age=input("Age: ")
+fav_food=input("Favorite food: ")
+print("I to love",fav_food)
+movie=input("What's ur fav movie? ")
+print("that movie",movie,"has good plot")
+print("okey,let's catch up later",name)
+ans=input()
