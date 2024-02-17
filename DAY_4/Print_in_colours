@@ -1,0 +1,4 @@
+print("\033[36mhello world")
+print("\033[31mHello,\033[0mI'm \033[35mRindhu")
+print("\033[0mI'm from the dept of \033[36mAIDS")
+print("I \033[33mLove \033[0mto watch \033[33mAnime")
