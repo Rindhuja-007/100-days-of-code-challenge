@@ -1,0 +1,11 @@
+#which anime charecter you are
+print("1.Love to eat ramen")
+print("2.Want to become a king")
+choice=input("choice: ")
+if choice=="1":
+    print("Naruto")
+else:
+    print("Luffy")
+
+
+ 
