@@ -1,0 +1,13 @@
+#logical operator in if statement
+
+a=10
+b=10
+if a==10 or b:  #this will raise error
+   print("a=10:)
+
+#The correct way is
+     
+a=10
+b=10
+if a==10 or a==b:
+   print("a=10")
